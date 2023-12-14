@@ -4,7 +4,9 @@
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_nets": [
+      "GND"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -16,17 +18,17 @@
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
-      "dimensions": true,
-      "footprints": true,
-      "graphics": true,
-      "keepouts": true,
+      "dimensions": false,
+      "footprints": false,
+      "graphics": false,
+      "keepouts": false,
       "lockedItems": false,
-      "otherItems": true,
-      "pads": true,
+      "otherItems": false,
+      "pads": false,
       "text": true,
       "tracks": true,
       "vias": true,
-      "zones": true
+      "zones": false
     },
     "visible_items": [
       0,
@@ -66,7 +68,7 @@
       35,
       36
     ],
-    "visible_layers": "0011feb_80000007",
+    "visible_layers": "0010f2f_80000007",
     "zone_display_mode": 0
   },
   "meta": {
